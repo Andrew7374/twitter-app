@@ -1,6 +1,6 @@
 # Twitter Data Analysis with PySpark
 
-## 📖 Opis projektu
+## 📖 Opis i cel projektu
 Projekt powstał podczas przerabiania kursu **Fundament Apache Spark** od Akademii BigData.  
 Jego celem było sfinalizowanie zdobytej wiedzy i praktyczne wykorzystanie PySpark do analizy danych.
 
@@ -29,9 +29,3 @@ TwitterApp/
 ├── twitter_app.py      # główny plik uruchomieniowy
 └── README.md           # dokumentacja projektu
 ```
-
-## Cel Projektu
-Projekt miał charakter edukacyjny i służył jako praktyczne ćwiczenie z:
-- ładowania danych w PySpark,
-- czyszczenia i transformacji danych,
-- wykonywania podstawowych analiz i agregacji.
