@@ -27,6 +27,18 @@ TwitterApp/
 ├── twitterApp.py # główny plik uruchomieniowy 
 └── README.md # dokumentacja projektu
 
+## 📂 Struktura projektu
+
+```text
+TwitterApp/
+│
+├── analyzers/          # moduł do analizy danych
+├── cleaners/           # moduł do czyszczenia danych
+├── loaders/            # moduł do ładowania danych
+├── twitter_app.py      # główny plik uruchomieniowy
+└── README.md           # dokumentacja projektu
+
+
 ## Cel Projektu
 Projekt miał charakter edukacyjny i służył jako praktyczne ćwiczenie z:
 - ładowania danych w PySpark,
