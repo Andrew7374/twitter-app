@@ -19,15 +19,6 @@ Aplikacja:
 ---
 
 ## 📂 Struktura projektu
-TwitterApp/ 
-|
-├── analyzers/ # moduły do analizy danych 
-├── cleaners/ # moduły do czyszczenia danych
-├── loaders/ # moduły do ładowania danych 
-├── twitterApp.py # główny plik uruchomieniowy 
-└── README.md # dokumentacja projektu
-
-## 📂 Struktura projektu
 
 ```text
 TwitterApp/
@@ -37,7 +28,7 @@ TwitterApp/
 ├── loaders/            # moduł do ładowania danych
 ├── twitter_app.py      # główny plik uruchomieniowy
 └── README.md           # dokumentacja projektu
-
+```
 
 ## Cel Projektu
 Projekt miał charakter edukacyjny i służył jako praktyczne ćwiczenie z:
